@@ -8,9 +8,9 @@ There are three elements for you to add styles to, each of which uses a differen
 
 The properties you need to add to each element are:
 
-* `div`: a red background, white text, a font size of 32px, center aligned, and bold
-* `p`: a green background, white text, and a font size of 18px
-* `button`: an orange background and a font size of 18px
+- `div`：红色背景，白色文本，字体大小为32px，中心对准和粗体 
+- `p`：绿色背景，白色文字和字体大小18px 
+- `button`：橙色背景和字体大小18px 
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
